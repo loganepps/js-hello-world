@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello there')
+console.log('"What is math?", said David')
+console.log('"Math is like, three plus three equals...", Abdul said and then paused')
+console.log('"',3 + 3,'"', ', said Regina')
 
 /*  
 Next, PLAY! 
